@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "monitoring-feed-1",
+      "description": "Live feed from the north field camera.",
+      "imageUrl": "https://images.unsplash.com/photo-1633502067399-75a548e457c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmaWVsZCUyMGNhbWVyYXxlbnwwfHx8fDE3NjQyNjEzMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "field camera"
+    },
+    {
+      "id": "monitoring-feed-2",
+      "description": "Live feed from the south field camera.",
+      "imageUrl": "https://images.unsplash.com/photo-1575686467550-7d2a658eb1cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmaWVsZCUyMGNhbWVyYSUyMGRyb25lfGVufDB8fHx8MTc2NDI2MTMwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "field camera drone"
+    },
+    {
+      "id": "monitoring-feed-3",
+      "description": "Drone view of the west quadrant.",
+      "imageUrl": "https://images.unsplash.com/photo-1621928372414-30e144d51d49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkcm9uZSUyMGFncmljdWx0dXJlfGVufDB8fHx8MTc2NDIzOTIxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "drone agriculture"
+    },
+    {
+      "id": "monitoring-feed-4",
+      "description": "ESP32-CAM feed from the greenhouse.",
+      "imageUrl": "https://images.unsplash.com/photo-1706359939227-eed750ff020f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmVlbmhvdXNlJTIwY2FtZXJhfGVufDB8fHx8MTc2NDI2MTMwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "greenhouse camera"
+    }
+  ]
+}
